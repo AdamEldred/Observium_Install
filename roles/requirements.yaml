@@ -1,4 +1,2 @@
 ---
-collections:
-# With just the collection name
-- juju4.observium
+- src: juju4.observium
