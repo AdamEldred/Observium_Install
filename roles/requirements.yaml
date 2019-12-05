@@ -1,2 +1,4 @@
 ---
-- src: juju4.observium
+name: juju4.observium
+src: git+https://github.com/juju4/ansible-observium
+scm: git
