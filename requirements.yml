@@ -1,4 +1,3 @@
 ---
 roles:
-- src: juju4.observium
-- src: juju4.redhat_epel
+- src: https://github.com/juju4/ansible-observium
