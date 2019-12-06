@@ -1,0 +1,4 @@
+---
+roles:
+- src: juju4.observium
+- src: juju4.redhat_epel
