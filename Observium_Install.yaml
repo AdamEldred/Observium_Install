@@ -2,4 +2,4 @@
 - name: Observium Install
   hosts: '{{ target }}'
   roles:
-    - juju4.observium
+    - ansible-observium
