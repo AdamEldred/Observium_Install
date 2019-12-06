@@ -1,5 +1,5 @@
 ---
 - name: Observium Install
-  hosts: '{{ target }}'
+  hosts: all
   roles:
     - ansible-observium
